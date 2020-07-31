@@ -42,6 +42,8 @@ https://reddit.com/
 https://remoteok.io
 https://remoteok.io/@levelsio
 https://remoteok.io/open
+https://remoteworkers.dev/
+https://remoteworkers.dev/open
 https://rottentomatoes.com
 https://sgtm.club/
 https://sgtm.club/@manfred
@@ -64,6 +66,12 @@ https://wip.chat
 https://wip.chat/@levelsio
 https://wip.chat/@marc
 https://wip.chat/@moul
+https://wip.chat/deals
+https://wip.chat/makers
+https://wip.chat/makers/map
+https://wip.chat/open
+https://wip.chat/products/
+https://wip.chat/questions
 https://www.4chan.org/
 https://www.amazon.com/
 https://www.apartments.com/
