@@ -1,8 +1,10 @@
 https://berty.tech/
 https://betalist.com/
 https://bleacherreport.com
+https://www.bloomberg.com/graphics/climate-change-data-green/
 https://businessinsider.com
 https://calendrier.ultre.me/2019/
+https://climate.nasa.gov/
 https://coincap.io/
 https://coincheckup.com/global
 https://demtovideo.tv/
@@ -72,7 +74,9 @@ https://www.coindesk.com/
 https://www.coingecko.com/fr
 https://www.dailymotion.com/
 https://www.earthcam.com/network/map.php
+https://www.elysee.fr/
 https://www.flightradar24.com/
+https://www.france.fr/fr
 https://www.fubiz.net/
 https://www.google.com/
 https://www.gouvernement.fr/
