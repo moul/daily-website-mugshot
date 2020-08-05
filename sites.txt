@@ -1,7 +1,6 @@
 https://berty.tech/
 https://betalist.com/
 https://bleacherreport.com
-https://www.bloomberg.com/graphics/climate-change-data-green/
 https://businessinsider.com
 https://calendrier.ultre.me/2019/
 https://climate.nasa.gov/
@@ -77,6 +76,7 @@ https://www.amazon.com/
 https://www.apartments.com/
 https://www.artnews.com/
 https://www.artprice.com/
+https://www.bloomberg.com/graphics/climate-change-data-green/
 https://www.camembertaulaitcrew.biz/
 https://www.coindesk.com/
 https://www.coingecko.com/fr
@@ -90,6 +90,7 @@ https://www.google.com/
 https://www.gouvernement.fr/
 https://www.hltv.org/
 https://www.lemonde.fr/
+https://www.marinetraffic.com/en/ais/home/centerx:-13.5/centery:39.5/zoom:4
 https://www.nasa.gov/multimedia/imagegallery/iotd.html
 https://www.nasa.gov/nasalive
 https://www.osmosecollective.com 
